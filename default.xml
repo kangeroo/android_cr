@@ -42,6 +42,5 @@
 
   <project path="vendor/cm" name="cristianomatos/android_vendor_cm" remote="github" revision="cm-11" />
 
-  </project>
 
 </manifest>
